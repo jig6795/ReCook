@@ -188,14 +188,14 @@
 ![취향조사](https://user-images.githubusercontent.com/44192706/114414258-9dad5600-9be9-11eb-8b6f-48521b41580e.gif)
 - ##### Main
 
-  ![메인화면](/uploads/70803c76aac1daa139723fa0ca8dd08f/메인화면.gif)
+![메인](https://user-images.githubusercontent.com/44192706/114416291-7ce60000-9beb-11eb-84b6-7bfdecbaa730.gif)
 
   
 
 - ##### Recipe Detail
 
-  ![레시피_상세](/uploads/b975ec8ad5da02ede9100bbf5674bf37/레시피_상세.gif)
-
+![레시피상세](https://user-images.githubusercontent.com/44192706/114416286-7bb4d300-9beb-11eb-8bdf-2db68c61fbab.gif)
+  
   
 
 - ##### Review
