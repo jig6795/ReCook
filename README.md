@@ -135,13 +135,13 @@
 - Backend : Spring Boot, Django, MariaDB
 - Frontend : Vue.js
 
-![image](/uploads/5b788ee36c740c2adbdcbcc78fa569a7/image.png)
+![기술스택](https://user-images.githubusercontent.com/44192706/114414148-88d0c280-9be9-11eb-81fc-7e78a52d2cda.png)
 
 
 
 ### Database Modeling :link:
 
-![image](/uploads/f3b7b3bc1348160f884823b1186bd184/image.png)
+![erd](https://user-images.githubusercontent.com/44192706/114414118-83737800-9be9-11eb-8775-31c19557f6f2.png)
 
 
 
@@ -185,7 +185,7 @@
 
 - ##### Survey
 
-  ![취향조사](/uploads/600193d116666ca0fa3dc337a445d341/취향조사.gif)
+![취향조사](https://user-images.githubusercontent.com/44192706/114414258-9dad5600-9be9-11eb-8b6f-48521b41580e.gif)
 - ##### Main
 
   ![메인화면](/uploads/70803c76aac1daa139723fa0ca8dd08f/메인화면.gif)
@@ -200,19 +200,19 @@
 
 - ##### Review
 
-  ![리뷰_모아보기](/uploads/123659d2da8190885fd68416ed0f0051/리뷰_모아보기.gif)
+![리뷰모아보기](https://user-images.githubusercontent.com/44192706/114414313-ab62db80-9be9-11eb-8019-762e2296be97.gif)
 
   
 
 - ##### MyPage(My Review & Like)
 
-  ![리뷰_찜](/uploads/1bc248758e825f52e09be527d7284b0d/리뷰_찜.gif)
+![리뷰찜](https://user-images.githubusercontent.com/44192706/114414299-a867eb00-9be9-11eb-8483-eb01fcb10267.gif)
 
   
 
 - ##### Cook Video
 
-  ![유튜브](/uploads/e0e5aa2d4841acd54d59da1a8c96aa01/유튜브.gif)
+![유튜브](https://user-images.githubusercontent.com/44192706/114414281-a1d97380-9be9-11eb-83a2-5bcbe01ea55c.gif)
 
 ### Recipe Source 📕
 
